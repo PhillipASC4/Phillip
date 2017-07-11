@@ -1,0 +1,11 @@
+var pkmName = "Charizard"
+var charizardHP = 78
+var charizardNum = 6
+var charizardType = "Fire and Flying"
+var charizardBestMove = "Inferno"
+var charizardLastEvo = true
+var charizardDef = 85
+var charizardAtk = 109
+var charizardSpd = 100
+var charizardSpAtk = 105
+var charizardSpDef = 85
